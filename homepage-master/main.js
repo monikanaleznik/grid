@@ -77,4 +77,4 @@ const welcome = (namee, agee) => {
 const namee = 'Monika';
 const agee = 27;
 
-welcome(namee, agee);
+welcome(namee, agee);  
